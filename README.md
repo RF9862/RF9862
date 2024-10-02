@@ -24,6 +24,8 @@ As a highly skilled and versatile **Full Stack Developer** and **Machine Learnin
 
 - **Secure Payment Integrations**: Expertise in implementing secure and reliable payment systems using **Stripe** and **Plaid APIs**. I’ve ensured seamless transactions, minimized payment errors, and enhanced the overall security of financial applications.
 
+---
+
 ### **Key Achievements:**
 
 - **Real Estate Platform Modernization**: Led the modernization of a real estate platform utilizing **Next.js**, **Node.js**, and **Python**, improving platform responsiveness and user engagement by **35%**. Introduced a **microservices architecture** on **AWS**, resulting in a **25% reduction in operational costs**.
@@ -44,19 +46,6 @@ As a highly skilled and versatile **Full Stack Developer** and **Machine Learnin
 - **Automation Tools**: Scrapy, BeautifulSoup, Selenium
 - **APIs**: Stripe, Plaid, Google APIs, Social Media APIs
 - **Version Control**: Git, GitHub, GitLab
-
----
-
-
-### DevOps:
-- **Cloud Platforms**: AWS (EC2, S3, Lambda), Azure, Google Cloud.
-- **CI/CD**: Jenkins, CircleCI, GitHub Actions.
-- **Containerization**: Docker, Kubernetes.
-- **Version Control**: Git, GitLab, GitHub.
-
-### Testing:
-- **Unit and Integration Testing**: Jest, Mocha, Chai for JavaScript. PHPUnit for Laravel. PyTest for Python.
-- **E2E Testing**: Cypress, Selenium.
 
 ---
 
